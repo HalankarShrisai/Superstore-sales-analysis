@@ -88,6 +88,6 @@ git clone https://github.com/HalankarShrisai/superstore-sales-analysis.git
 B.Tech — Electronics & Computer Science, VIT Mumbai (2026)  
 Aspiring Data Analyst  
 
-[![LinkedIn](https://www.linkedin.com/in/shrisai-halankar-297a18299/)
+[![LinkedIn](https://www.linkedin.com/in/shrisai-halankar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/HalankarShrisai)
 
